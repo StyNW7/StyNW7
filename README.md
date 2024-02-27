@@ -8,10 +8,10 @@
 
 ### Details
 
-- 🌱 I’m currently learning: Web Development, Competitive Programming, and General Mathematics 👨‍🔬
-- 🤔 I’m looking for: A girlfriend 🙏
+- 🌱 I’m currently learning: <b> Web Development </b>, <b> Competitive Programming </b>, and <b> General Mathematics </b> 👨‍🔬
+- 🤔 I’m looking for: <b> A girlfriend </b> 🙏
 - ⚡ Fun fact: Sometimes busy, sometimes free, but always fast respond :)
-- 🪄 More about me: <a href = "https://bento.me/snw77"> Profile Details </a>
+- 🪄 More about me: <a href = "https://bento.me/snw77"> <b> Profile Details </b> </a>
 
 ### Connect with me
 
