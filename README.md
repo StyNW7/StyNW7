@@ -15,26 +15,14 @@
 
 ### Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/stanley-wijaya-b3134a222/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xStyNWx" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/snw.77/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xStyNWx" height="30" width="40" />
-  </a>
-  <a href="https://open.spotify.com/user/31bynwysv7mbxu6n2bsx26dmq7eq" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="xStyNWx" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/xStyNWx/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xStyNWx" height="30" width="40" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/snw.77/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/?authuser=stanley.n.wijaya7@gmail.com)
 
 ### Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,c,cpp,python,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,discord,instagram,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,discord,vscode)](https://skillicons.dev)
 
 ### Status
 
