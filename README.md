@@ -28,7 +28,7 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 ### Status 🪄
 
-<a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/StyNW7/github-readme-stats)">
+<a href="(https://github.com/StyNW7/github-readme-stats)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en" />
 </a>
 <a href="https://github.com/StyNW7/github-readme-stats">
