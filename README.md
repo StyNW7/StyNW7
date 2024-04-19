@@ -28,6 +28,8 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 ### GitHub Status 🪄
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <p>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="212px" />
@@ -37,7 +39,16 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
   </a>
 </p>
 
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7)](https://git.io/streak-stats)
 
 ### GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+![StyNW7's github trophy](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
