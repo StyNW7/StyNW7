@@ -28,9 +28,17 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 ### Status 🪄
 
-<a href="(https://github.com/StyNW7/github-readme-stats)">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en" />
 </a>
-<a href="https://github.com/StyNW7/github-readme-stats">
+
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut" />
 </a>
+
+![](https://github-profile-trophy.vercel.app/?username=StyNW7&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StyNW7" alt="StyNW7" /></a> </p>
