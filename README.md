@@ -32,10 +32,10 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 <p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="212px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="200px" />
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en", height="212px"" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en", height="200px"" />
   </a>
 </p>
 
