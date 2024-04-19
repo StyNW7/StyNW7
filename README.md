@@ -30,20 +30,14 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 <p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="192px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="212px" />
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en", height="192px"" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&locale=en", height="212px"" />
   </a>
-</p>
-
-<p>
-  [StyNW7's GitHub stats](https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&theme=transparent)(https://github.com/StyNW7/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut)](https://github.com/StyNW7/github-readme-stats)
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7)](https://git.io/streak-stats)
 
 ### GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=StyNW7&theme=onedark&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
