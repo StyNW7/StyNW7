@@ -22,6 +22,8 @@
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/?authuser=stanley.n.wijaya7@gmail.com)
 
 Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode </b> </a> - <a href="https://codeforces.com/profile/xStyNWx"> <b> CodeForces </b> </a>
+<br>
+Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </a>
 
 <h3>Language and Tools ⚙️</h3>
 
@@ -44,24 +46,26 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
   </a>
 </p>
 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7)](https://git.io/streak-stats)
-
-<details open>
+<details>
   
   <summary>
-    <h3>GitHub Trophies 🏆</h3>
+    <h3>GitHub Activity 🎯</h3>
   </summary>
   
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
   
   ![StyNW7's github trophy](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
 
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7&height=200)](https://git.io/streak-stats)
+
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
   ![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
   
 </details>
+
+<h4> <i> "I am the wisest man alive, for I know one thing, and that is that I know nothing." </i> ~ Socrates</h4>
 
 <!-- END -->
