@@ -15,16 +15,21 @@
 
 ### Connect with me 📬
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/snw.77/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/?authuser=stanley.n.wijaya7@gmail.com)
+<!-- https://github.com/tandpfun/skill-icons -->
+
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/snw.77/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/stanley-nathanel-wijaya/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/?authuser=stanley.n.wijaya7@gmail.com)
 
 Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode </b> </a> - <a href="https://codeforces.com/profile/xStyNWx"> <b> CodeForces </b> </a>
 
 ### Language and Tools ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,c,cpp,python,java)](https://skillicons.dev)
+<!-- https://github.com/tandpfun/skill-icons -->
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,c,cpp,python,java&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=discord,github,notion,figma,eclipse,vscode&theme=light)](https://skillicons.dev)
 
 ### GitHub Status 🪄
 
