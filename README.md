@@ -6,14 +6,14 @@
 🎶 Music Lover
 🧑‍💻 Enthusiast Coder
 
-### Details ℹ
+<h3>Details ℹ</h3>
 
 - 🌱 I’m currently learning: <b> Web Development </b>, <b> Competitive Programming </b>, and <b> General Mathematics </b> 👨‍🔬
 - 🤔 I’m looking for: <b> Part Time Job </b> or <b> Internship </b> 🙏
 - ⚡ Fun fact: Sometimes busy, sometimes free, but always <b> fast respond </b>
 - 🪄 More about me: <a href = "https://bento.me/snw77"> <b> Profile Details </b> </a>
 
-### Connect with me 📬
+<h3>Connect with me 📬</h3>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
@@ -23,7 +23,7 @@
 
 Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode </b> </a> - <a href="https://codeforces.com/profile/xStyNWx"> <b> CodeForces </b> </a>
 
-### Language and Tools ⚙️
+<h3>Language and Tools ⚙️</h3>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
@@ -31,7 +31,7 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,notion,figma,eclipse,vscode&theme=light)](https://skillicons.dev)
 
-### GitHub Status 🪄
+<h3>GitHub Status 🪄</h3>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -48,12 +48,20 @@ Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode <
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7)](https://git.io/streak-stats)
 
-### GitHub Trophies 🏆
+<details open>
+  
+  <summary>
+    <h3>GitHub Trophies 🏆</h3>
+  </summary>
+  
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+  
+  ![StyNW7's github trophy](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
 
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  
+  ![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
+  
+</details>
 
-![StyNW7's github trophy](https://github-profile-trophy.vercel.app/?username=StyNW7&&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET)
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
+<!-- END -->
