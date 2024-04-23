@@ -8,7 +8,7 @@
 
 <h3>Details ℹ</h3>
 
-- 🌱 I’m currently learning: <b> Web Development </b>, <b> Competitive Programming </b>, and <b> General Mathematics </b> 👨‍🔬
+- 🌱 I’m currently learning: <b> Web Development </b>, <b> Data Analysis </b>, and <b> General Mathematics </b> 👨‍🔬
 - 🤔 I’m looking for: <b> Part Time Job </b> or <b> Internship </b> 🙏
 - ⚡ Fun fact: Sometimes busy, sometimes free, but always <b> fast respond </b>
 - 🪄 More about me: <a href = "https://bento.me/snw77"> <b> Profile Details </b> </a>
