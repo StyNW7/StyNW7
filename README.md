@@ -39,7 +39,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 
 <p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="200px", />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=compact", height="200px", width = "400px" />
   </a>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true", height="200px"" />
