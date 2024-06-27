@@ -84,11 +84,10 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
   
   ![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
 
-<!-- https://github.com/anuraghazra/github-readme-stats 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StyNW7)](https://github.com/anuraghazra/github-readme-stats)
-
-  -->
+  
   
 </details>
 
