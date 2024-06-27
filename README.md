@@ -39,7 +39,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 
 <p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut", height="200px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut&hide=scss,less", height="200px"/>
   </a>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true", height="200px"" />
@@ -83,6 +83,12 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
   ![StyNW7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StyNW7&area=true&hide_border=true&bg_color=f0f0f0&color=708090&line=24292e&point=24292e&area_color=333333&title_color=777)
+
+<!-- https://github.com/anuraghazra/github-readme-stats 
+
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StyNW7)](https://github.com/anuraghazra/github-readme-stats)
+
+  -->
   
 </details>
 
