@@ -86,7 +86,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StyNW7&hide=other)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StyNW7&hide=other&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
 </details>
