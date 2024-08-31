@@ -33,18 +33,34 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,notion,figma,eclipse,vscode&theme=light)](https://skillicons.dev)
 
-<h3>GitHub Status 🪄</h3>
+<h3>GitHub Status </h3>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<p>
+<!-- <p>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&layout=donut&hide=scss,less,jupyter%20notebook", height="200px"/>
   </a>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true", height="200px"" />
   </a>
-</p>
+</p> -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&langs_count=8&hide_border=false&hide=scss,less,jupyter%20notebook" alt="Top Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StyNW7&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 
@@ -78,7 +94,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7&height=200)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=StyNW7&height=200)](https://git.io/streak-stats) -->
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
@@ -87,6 +103,10 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StyNW7&hide=other&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![](https://github-contributor-stats.vercel.app/api?username=StyNW7&limit=5&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=StyNW7&color=11)](https://visitcount.itsvg.in)
   
   
 </details>
