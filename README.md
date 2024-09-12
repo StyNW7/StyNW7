@@ -56,7 +56,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
       <img src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true" alt="GitHub Stats"/>
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&langs_count=8&hide_border=false&hide=scss,less,jupyter%20notebook" alt="Top Language"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&langs_count=10&hide_border=false&hide=scss,less,jupyter%20notebook" alt="Top Language"/>
     </td>
   </tr>
   <tr>
