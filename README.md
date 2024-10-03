@@ -12,7 +12,7 @@
 
 <h2>Details ℹ</h2>
 
-- 🌱 I’m currently learning: <b> Web Development </b>, <b> Data Analysis </b>, and <b> General Mathematics </b> 👨‍🔬
+- 🌱 I’m currently learning: <b> Full Stack Development </b> 👨‍🔬
 - 🤔 I’m looking for: <b> Part Time Job </b> or <b> Internship </b> 🙏
 - ⚡ Fun fact: Sometimes busy, sometimes free, but always <b> fast respond </b>
 - 🪄 More about me: <a href = "https://bento.me/snw77"> <b> Profile Details </b> </a>
@@ -22,7 +22,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/snw.77/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/stanley-nathanel-wijaya/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/stanley-nathanael-wijaya/)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/?authuser=stanley.n.wijaya7@gmail.com)
 
 Competitive Programming: <a href="https://leetcode.com/xStyNWx/"> <b> LeetCode </b> </a> - <a href="https://codeforces.com/profile/xStyNWx"> <b> CodeForces </b> </a>
