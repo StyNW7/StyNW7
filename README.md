@@ -12,7 +12,7 @@
 
 <h2>Details ℹ</h2>
 
-- 🏢 I'm currently working: <b> Part Time Laboratory Assistant at BINUS University </b>
+- 🏢 I'm currently working: <b> Full Time Laboratory Assistant at BINUS University </b>
 - 🌱 I’m currently learning: <b> Full Stack Development </b> 👨‍🔬
 - 🤔 I’m looking for: <b> Part Time Job </b> or <b> Internship </b> 🙏
 - ⚡ Fun fact: Sometimes busy, sometimes free, but always <b> fast respond </b>
