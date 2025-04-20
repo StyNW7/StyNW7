@@ -1,4 +1,8 @@
-# Stanley Nathanael Wijaya ✨
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Stanley%20N.%20Wijaya&desc=Full%20Stack%20Developer&textBg=false&fontSize=70&fontAlign=50&animation=blink&section=header&reversal=true&fontAlignY=40">
+</div>
+
+<!-- # Stanley Nathanael Wijaya ✨ -->
 
 🎓 Student
 ✝️ Christian
