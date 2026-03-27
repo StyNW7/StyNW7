@@ -16,6 +16,7 @@
 
 <h2>Details ℹ</h2>
 
+- 🥇 The <b> Most Outstanding Student </b> at Overall BINUS University 2026
 - 🏢 I'm currently working: <b> Full Time Laboratory Assistant at BINUS University </b>
 - 🌱 I’m currently learning: <b> Full Stack Development </b> 👨‍🔬
 - 🤔 I’m looking for: <b> Part Time Job </b> or <b> Internship </b> 🙏
@@ -65,7 +66,7 @@ Learning about Data: <a href="https://www.kaggle.com/stynw7"> <b> Kaggle </b> </
       <img src="https://github-readme-stats.vercel.app/api?username=StyNW7&show_icons=true" alt="GitHub Stats"/>
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&langs_count=10&hide_border=false&hide=scss,less,jupyter%20notebook,rich%20text%20format,shaderlab" alt="Top Language"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyNW7&langs_count=10&hide_border=false&hide=scss,less,jupyter%20notebook,rich%20text%20format,shaderlab,html" alt="Top Language"/>
     </td>
   </tr>
   <tr>
